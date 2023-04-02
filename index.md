@@ -1,6 +1,6 @@
 # Заголовок
 
-![Изображение Obsidian|200](https://obsidian.md/images/banner.png)
+![Изображение Obsidian](https://obsidian.md/images/banner.png)
 
 ```markdown
 $ git init
