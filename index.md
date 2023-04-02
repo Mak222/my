@@ -1,8 +1,8 @@
 # Заголовок
 
-![Изображение Obsidian](https://obsidian.md/images/banner.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-```markdown
+```
 $ git init
-Инициализирует пустой репозиторий Git в /Users/skills/Projects/recipe-repository/.git/
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
